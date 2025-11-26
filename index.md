@@ -243,7 +243,7 @@ This seminar project explores why women in Indian cities travel significantly **
 
 **Concept:** an elevated autonomous cabin system with small vehicles on a track above the ground, offering on-demand, point-to-point trips.
 
-##### What I did
+##### What we did
 
 - Defined indicators for **three modes** – Ottobahn, S-Bahn and car – along three dimensions:
   - **Quality of space:** land take, safety, user acceptance.  
@@ -262,7 +262,7 @@ This seminar project explores why women in Indian cities travel significantly **
 
 **Concept:** electric vertical-takeoff aircraft providing fast connections between Pasing, Gauting, Starnberg and surrounding areas.
 
-##### What I did
+##### What we did
 
 - Modelled **door-to-door travel times** (start-up, hover, climb, cruise, descent) and compared them to car/PT.  
 - Built indicators for:
@@ -287,7 +287,7 @@ This seminar project explores why women in Indian cities travel significantly **
 
 As part of **euMOVE 2024**, I joined a team exploring commuting from suburban to urban areas in Genoa and Turin, focusing on **MaaS and on-demand services**.
 
-#### What I did
+#### What we did
 
 - Developed **personas** representing different mobility needs (e.g. pregnant woman, older man with limited mobility, blind traveller) to keep accessibility central.  
 - Conducted:
@@ -308,16 +308,14 @@ As part of **euMOVE 2024**, I joined a team exploring commuting from suburban to
 ## 🎓 Education & Interests
 
 **Education**  
-*(Edit these lines to match your real degrees and universities)*  
 
-- `M.Sc. in Transportation Systems – Technical University of Munich, Germany  
-- `B.Tech. in Civil Engineering – University of Kerala, India
+- M.Sc. in Transportation Systems – Technical University of Munich, Germany  
+- B.Tech. in Civil Engineering – University of Kerala, India
 
 ---
 
 ## 📬 Contact
 
-- **GitHub:** [github.com/anaghavenugopal](https://github.com/anaghavenugopal)  
 - **Email:** [anaghav1219@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/anagha-venugopal-28b124142/]
 
