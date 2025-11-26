@@ -257,7 +257,8 @@ This seminar project explores why women in Indian cities travel significantly **
 
 
 
-#### Urban Air Mobility (UAM) in Würmtal
+---
+#### 8. Urban Air Mobility (UAM) in Würmtal
 
 **Concept:** electric vertical-takeoff aircraft providing fast connections between Pasing, Gauting, Starnberg and surrounding areas.
 
@@ -280,7 +281,7 @@ This seminar project explores why women in Indian cities travel significantly **
 
 ---
 
-### 8. euMOVE 2024 – Commuting from Suburban Areas (Genoa, Italy)
+### 9. euMOVE 2024 – Commuting from Suburban Areas (Genoa, Italy)
 
 **Keywords:** MaaS, on-demand services, accessibility, user research, qualitative methods  
 
@@ -311,14 +312,6 @@ As part of **euMOVE 2024**, I joined a team exploring commuting from suburban to
 
 - `M.Sc. in Transportation Systems – Technical University of Munich, Germany  
 - `B.Tech. in Civil Engineering – University of Kerala, India
-
-**Interests**
-
-- Shared mobility & MaaS  
-- Sustainable and low-carbon transport  
-- Equity and inclusion in transport planning  
-- Human-centred service and information design  
-- Data-driven decision-making for cities  
 
 ---
 
